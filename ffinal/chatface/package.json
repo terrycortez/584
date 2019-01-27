@@ -1,0 +1,24 @@
+{
+  "name": "chatface",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "fs": "0.0.1-security",
+    "http": "0.0.0",
+    "moment": "^2.23.0",
+    "socket.io": "^2.2.0",
+    "vue": "^2.5.21",
+    "vue-chat": "0.0.2",
+    "vue-router": "^3.0.2",
+    "vue-socket.io": "^3.0.4",
+    "vuex": "^3.0.1"
+  }
+}
